@@ -97,6 +97,10 @@
   background-color: crimson;
 }
 
+.GCHYANPCMAD {
+  background-color: crimson;
+}
+
 .ace_string {
   color: #B5BD68
 }
@@ -198,10 +202,10 @@
   outline: 1px solid #CCC;
   outline-offset: -1px;
 }
-.terminal .xterm-selection div { 
-   position: absolute; 
-   background-color: #CCC; 
-} 
+.terminal .xterm-selection div {
+   position: absolute;
+   background-color: #CCC;
+}
 .terminal .xterm-viewport {
   background-color: #263238;
   overflow-y: scroll;
